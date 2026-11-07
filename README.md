@@ -9,4 +9,8 @@ bin/magento setup:di:compile
 bin/magento cache:flush
 ```
 
+![The setup wizard](https://raw.githubusercontent.com/hryvinskyi/magento2-data-layer-admin-ui/main/docs/images/setup-wizard.png)
+
+![The setup wizard's server-side step](https://raw.githubusercontent.com/hryvinskyi/magento2-data-layer-server-side-admin-ui/main/docs/images/server-side-step.png)
+
 The user guide is in [`docs/ga4-data-layer-guide.md`](https://github.com/hryvinskyi/magento2-data-layer/blob/main/docs/ga4-data-layer-guide.md) of `hryvinskyi/magento2-data-layer`.
